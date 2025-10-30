@@ -1,0 +1,70 @@
+{
+    "sorteio_1196476583049965568_1761773348": {
+        "nome": "sorteio_1196476583049965568_1761773348",
+        "premio": "a",
+        "imagem_url": null,
+        "cor": 255,
+        "criador": 1196476583049965568,
+        "criador_name": "𝙽𝚒𝚝𝚑𝚘𝚊𝚖𝚊",
+        "mensagem_id": 1433206083601825933,
+        "channel_id": 1433117606818091190,
+        "guild_id": 1433117606101127310,
+        "fim_sorteio": "2025-10-29T18:30:17.081261",
+        "participantes": [
+            1196476583049965568
+        ],
+        "vencedor_atual": 1196476583049965568,
+        "mensagem_vencedor_id": 1433474220440027229
+    },
+    "sorteio_1196476583049965568_1761773451": {
+        "nome": "sorteio_1196476583049965568_1761773451",
+        "premio": "papo",
+        "imagem_url": null,
+        "cor": 65280,
+        "criador": 1196476583049965568,
+        "criador_name": "𝙽𝚒𝚝𝚑𝚘𝚊𝚖𝚊",
+        "mensagem_id": 1433206517611368518,
+        "channel_id": 1433117606818091190,
+        "guild_id": 1433117606101127310,
+        "fim_sorteio": "2025-10-29T18:32:00.556835",
+        "participantes": [
+            1196476583049965568
+        ],
+        "vencedor_atual": 1196476583049965568,
+        "mensagem_vencedor_id": 1433474227452907570
+    },
+    "sorteio_1196476583049965568_1761775495": {
+        "nome": "sorteio_1196476583049965568_1761775495",
+        "premio": "nada",
+        "imagem_url": null,
+        "cor": 0,
+        "criador": 1196476583049965568,
+        "criador_name": "𝙽𝚒𝚝𝚑𝚘𝚊𝚖𝚊",
+        "mensagem_id": 1433215091700011098,
+        "channel_id": 1433117606818091190,
+        "guild_id": 1433117606101127310,
+        "fim_sorteio": "2025-10-29T19:06:04.750458",
+        "participantes": [
+            1196476583049965568
+        ],
+        "vencedor_atual": 1196476583049965568,
+        "mensagem_vencedor_id": 1433474250693410930
+    },
+    "sorteio_1196476583049965568_1761837262": {
+        "nome": "sorteio_1196476583049965568_1761837262",
+        "premio": "bola",
+        "imagem_url": null,
+        "cor": 3329330,
+        "criador": 1196476583049965568,
+        "criador_name": "𝙽𝚒𝚝𝚑𝚘𝚊𝚖𝚊",
+        "mensagem_id": 1433474164852920373,
+        "channel_id": 1433117606818091190,
+        "guild_id": 1433117606101127310,
+        "fim_sorteio": "2025-10-30T12:15:32.842972",
+        "participantes": [
+            1196476583049965568
+        ],
+        "vencedor_atual": null,
+        "mensagem_vencedor_id": null
+    }
+}

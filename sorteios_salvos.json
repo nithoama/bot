@@ -1,0 +1,18 @@
+{
+    "print": {
+        "nome": "print",
+        "premio": "bola",
+        "imagem_url": null,
+        "cor": 0,
+        "criador": 1196476583049965568,
+        "criador_name": "𝙽𝚒𝚝𝚑𝚘𝚊𝚖𝚊",
+        "mensagem_id": 1433510009945198604,
+        "channel_id": 1433117606818091190,
+        "fim_sorteio": "2025-10-30T14:37:58.949573",
+        "participantes": [
+            1196476583049965568
+        ],
+        "vencedor_atual": 1196476583049965568,
+        "finalizado": true
+    }
+}
